@@ -1,0 +1,9 @@
+﻿user_id,match_id,game,created_at,membership,faction,winner
+ab542a ,e21887 ,csgo,02/01/2018 18:45,free,faction 1,faction 1
+ef72da,df891f ,dota2 ,02/01/2018 08:20,free,faction 2,faction 1
+f5c776,1p5c47 ,wot_RU,30/12/2017 15:25,free,faction 1,faction 2
+5a278a,af14e8 ,csgo ,01/01/2018 14:27,premium,faction 2,faction 2
+ae346d ,af14e8 ,csgo ,01/01/2018 14:27,free,faction 2,faction 2
+2b13d8,a88c44 ,csgo,31/12/2017 12:33,free,faction 1,faction 2
+ace797 ,df891f ,dota2 ,02/01/2018 08:20,premium,faction 2,faction 1
+ace797 ,ae193a ,csgo2 ,03/01/2018 18:18,premium,faction 1,faction 1
